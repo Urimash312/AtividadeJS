@@ -1,0 +1,45 @@
+var n
+n=parseInt(prompt("numero"))
+if(n==0)
+{
+    alert("zero")
+}
+if(n==1)
+{
+    alert("um")
+}
+if(n==2)
+{
+    alert("dois")
+}
+if(n==3)
+{
+    alert("tres")
+}
+if(n==4)
+{
+    alert("quatro")
+}
+if(n==5)
+{
+    alert("cinco")
+}
+if(n==6)
+{
+    alert("seis")
+}
+if(n==7)
+{
+    alert("sete")
+}
+if(n==8)
+{
+    alert("oito")
+}
+if(n==9)
+{
+    alert("nove")
+}
+else{
+    alert("ai nao da")
+}

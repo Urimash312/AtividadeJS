@@ -1,0 +1,23 @@
+var valor, estado
+valor=parseFloat(prompt("valor"))
+estado=prompt("estado")
+if(estado=="mg")
+{
+    valor=valor*1.07
+    alert(valor)
+}
+if(estado=="sp")
+{
+    valor=valor*1.12
+    alert(valor)
+}
+if(estado=="Rj")
+{
+    valor=valor*1.15
+    alert(valor)
+}
+if(estado=="ms")
+{
+    valor=valor*1.08
+    alert(valor)
+}
